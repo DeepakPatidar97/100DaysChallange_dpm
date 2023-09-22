@@ -1,4 +1,4 @@
-package com.challenge;
+package com.challenge.day1;
 
 public class HelloWorld {
 	public static void main(String[] args) {
